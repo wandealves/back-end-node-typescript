@@ -1,0 +1,8 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "por": 5432,
+  "username": "postgres",
+  "password": "docker",
+  "database": "gostack_postgres"
+}
