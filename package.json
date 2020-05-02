@@ -1,0 +1,9 @@
+{
+  "name": "back-end-node-typescript",
+  "version": "1.0.0",
+  "description": "Backe-end desenvolvido com node e typescript",
+  "main": "index.js",
+  "repository": "https://github.com/wandealves/back-end-node-typescript.git",
+  "author": "Wanderson <wanderson.alves.rodrigues@gmail.com>",
+  "license": "MIT"
+}
