@@ -1,0 +1,32 @@
+1) Instalar ORM
+
+yarn add typeorm
+
+2) Instalar Driver Postgres
+
+yarn add pg
+
+3) Instlar dependência typeorm
+
+yarn add reflect-metadata
+
+4) Criar Migration
+
+yarn typeorm migration:create -n [nome_da_migration]
+
+5) executar Migrations
+
+yarn typeorm migration:run
+
+6) Desfazer migration
+
+yarn typeorm migration:revert
+
+7) Exibir migration executada
+
+yarn typeorm migration:show
+
+8) Instlar criptografia
+
+yarn add bcryptjs
+yarn add -D @types/bcryptjs

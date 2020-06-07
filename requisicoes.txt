@@ -1,0 +1,22 @@
+GET
+
+localhost:3333/appointments
+
+POST
+
+localhost:3333/appointments
+
+{
+	"provider_id":"1f21d0cc-15f2-4805-b9a7-21dff5522a3f",
+	"date":"2020-05-03T16:00:00.000Z"
+}
+
+POST
+
+localhost:3333/users
+
+{
+	"name":"Wanderson3",
+	"email":"wanderson3@email.com",
+	"password":"123456"
+}
