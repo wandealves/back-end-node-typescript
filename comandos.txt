@@ -40,3 +40,7 @@ yarn add @types/jsonwebtoken
 
 yarn add multer
 yarn add @types/multer
+
+11) Instalar Tratamento de Erros no express
+
+yarn add express-async-errors
