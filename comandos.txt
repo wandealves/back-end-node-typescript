@@ -30,3 +30,8 @@ yarn typeorm migration:show
 
 yarn add bcryptjs
 yarn add -D @types/bcryptjs
+
+9) Instalar JWT
+
+yarn add jsonwebtoken
+yarn add @types/jsonwebtoken

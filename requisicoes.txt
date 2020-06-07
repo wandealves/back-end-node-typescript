@@ -20,3 +20,13 @@ localhost:3333/users
 	"email":"wanderson3@email.com",
 	"password":"123456"
 }
+
+
+POST
+
+localhost:3333/sessions
+
+{
+	"email":"wanderson@email.com",
+	"password":"123456"
+}
