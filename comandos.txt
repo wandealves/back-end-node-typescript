@@ -53,3 +53,7 @@ yarn add @types/cors
 13) Instlar tratamento de paths
 
 yarn add tsconfig-paths -D
+
+14) Instalar injeção de dependencia
+
+yarn add tsyringe
