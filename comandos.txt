@@ -44,3 +44,8 @@ yarn add @types/multer
 11) Instalar Tratamento de Erros no express
 
 yarn add express-async-errors
+
+12) cors
+
+yarn add cors
+yarn add @types/cors
