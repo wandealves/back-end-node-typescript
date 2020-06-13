@@ -57,3 +57,10 @@ yarn add tsconfig-paths -D
 14) Instalar injeção de dependencia
 
 yarn add tsyringe
+
+15) Instalar Testes
+
+yarn add jest -D
+yarn jest --init
+yarn add ts-jest -D
+yarn add @types/jest -D
