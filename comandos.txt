@@ -49,3 +49,7 @@ yarn add express-async-errors
 
 yarn add cors
 yarn add @types/cors
+
+13) Instlar tratamento de paths
+
+yarn add tsconfig-paths -D
