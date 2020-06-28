@@ -70,3 +70,8 @@ yarn add @types/jest -D
 yarn add nodemailer
 yarn add @types/nodemailer -D
 
+17) Templates E-mail
+
+yarn add handlebars
+
+18) https://ethereal.email/
