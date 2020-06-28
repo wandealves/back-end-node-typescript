@@ -64,3 +64,9 @@ yarn add jest -D
 yarn jest --init
 yarn add ts-jest -D
 yarn add @types/jest -D
+
+16) E-mail
+
+yarn add nodemailer
+yarn add @types/nodemailer -D
+
