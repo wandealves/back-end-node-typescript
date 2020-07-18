@@ -75,3 +75,7 @@ yarn add @types/nodemailer -D
 yarn add handlebars
 
 18) https://ethereal.email/
+
+19) Limpar cache Testes
+
+yarn jest --clearCache
