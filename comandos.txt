@@ -79,3 +79,13 @@ yarn add handlebars
 19) Limpar cache Testes
 
 yarn jest --clearCache
+
+20) Mongo - Docker
+
+docker run --name mongodb -p 27017:27017 -d -t mongo
+docker start mongodb
+acessar mongodb://localhost:27017
+
+21) Instalar mongodb
+
+yarn add mongodb
