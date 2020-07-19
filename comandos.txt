@@ -96,3 +96,7 @@ yarn add @types/mongodb -D
 yarn add celebrate
 
 types: yarn add -D @types/hapi__joi
+
+23) Variaveis de Ambiente
+
+yarn add dotenv

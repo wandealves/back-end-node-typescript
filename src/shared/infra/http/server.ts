@@ -1,4 +1,5 @@
 import 'reflect-metadata';
+import 'dotenv/config';
 import express, { Request, Response, NextFunction } from 'express';
 import cors from 'cors';
 import { errors } from 'celebrate';
@@ -19,6 +20,7 @@ app.use(express.json());
 app.use('/files', express.static(uploadConfig.uploadsFolder));
 app.use(routes);
 
+//tratar erros do celebrate para validações
 app.use(errors());
 
 app.use((err: Error, request: Request, response: Response, _: NextFunction) => {
