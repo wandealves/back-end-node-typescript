@@ -90,3 +90,9 @@ acessar mongodb://localhost:27017
 
 yarn add mongodb
 yarn add @types/mongodb -D
+
+22) Instalação celebrate para validação
+
+yarn add celebrate
+
+types: yarn add -D @types/hapi__joi
