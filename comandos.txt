@@ -100,3 +100,7 @@ types: yarn add -D @types/hapi__joi
 23) Variaveis de Ambiente
 
 yarn add dotenv
+
+24) Instalar Transformer
+
+yarn add class-transformer
