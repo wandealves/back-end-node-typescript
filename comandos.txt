@@ -89,3 +89,4 @@ acessar mongodb://localhost:27017
 21) Instalar mongodb
 
 yarn add mongodb
+yarn add @types/mongodb -D
