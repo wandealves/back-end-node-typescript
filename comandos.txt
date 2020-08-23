@@ -123,6 +123,14 @@ d - Amazon SES
 
 https://aws.amazon.com/pt/ses/
 
-25) Utilizando o Amazon SES
+26) Criar docker redis
+
+docker run --name redis -p 6379:6379 -d -t redis:alpine
+
+27) Instlar redis
+
+yarn add ioredis
+
+yarn add -D @types/ioredis
 
 
