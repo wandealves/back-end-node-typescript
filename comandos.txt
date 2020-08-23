@@ -104,3 +104,25 @@ yarn add dotenv
 24) Instalar Transformer
 
 yarn add class-transformer
+
+25) Soluções de envio de e-mail
+
+a -  SparkPost
+
+https://www.sparkpost.com/
+
+b - mailgun
+
+https://www.mailgun.com/
+
+c - mailchimp
+
+https://mailchimp.com/
+
+d - Amazon SES
+
+https://aws.amazon.com/pt/ses/
+
+25) Utilizando o Amazon SES
+
+
