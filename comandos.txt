@@ -137,4 +137,10 @@ yarn add -D @types/ioredis
 
 datadog = https://www.datadoghq.com/pricing/
 
+29) Evitar ataque 'Brute Force'
+
+- yarn add rate-limiter-flexible
+
+- para usar o redis com armazenador das request: yarn add redis e yarn add -D @types/redis
+
 
