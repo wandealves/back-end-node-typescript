@@ -133,4 +133,8 @@ yarn add ioredis
 
 yarn add -D @types/ioredis
 
+28) Monitoramento banco de dados
+
+datadog = https://www.datadoghq.com/pricing/
+
 
