@@ -48,7 +48,7 @@ yarn add express-async-errors
 12) cors
 
 yarn add cors
-yarn add @types/cors
+yarn add @types/cors -D
 
 13) Instlar tratamento de paths
 
@@ -143,4 +143,18 @@ datadog = https://www.datadoghq.com/pricing/
 
 - para usar o redis com armazenador das request: yarn add redis e yarn add -D @types/redis
 
+#### Deploy ####
 
+30) Babel para transpilação de código
+
+yarn add @babel/cli @babel/core @babel/node @babel/preset-env @babel/preset-typescript babel-plugin-module-resolver -D
+
+yarn add -D babel-plugin-transform-typescript-metadata
+yarn add -D @babel/plugin-proposal-decorators
+yarn add -D @babel/plugin-proposal-class-properties
+
+31) Pós build
+
+Depois de executar yarn  build
+Tem que pegar os arquivos ormconfig.json e package.json e colocar na pasta de distribuição;
+No arquivo ormconfig.json tem que alterar de src para dist e de ts para js;
